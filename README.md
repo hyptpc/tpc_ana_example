@@ -30,6 +30,7 @@ root
 
 ![image](https://github.com/user-attachments/assets/564fd6b3-1258-478d-9a60-0acd5dc03b14)
 
+---
 
 # 使い方
 
@@ -62,4 +63,3 @@ root
 6. `event()`を実行すると、ランダムにHypTPCで測定したデータが確認できます。`event()`を繰り返し実行すれば別のイベントも見れます。特定のイベントを見たい場合は`event(evnum)`とすればOKです。
 
 ![image](https://github.com/user-attachments/assets/564fd6b3-1258-478d-9a60-0acd5dc03b14)
-
